@@ -8,6 +8,7 @@ public class DifferentWaysToIntializeFinalVariable {
      
     // a blank final variable
     final int CAPACITY;
+    
      
     // another blank final variable
     final int  MINIMUM;
